@@ -1,0 +1,33 @@
+header{
+    font-family: Arial, sans-serif;
+    text-align: left;
+    background-color: hsl(226, 100%, 97%);
+    border-radius: 30px;
+}
+
+body{
+    background-color: darkkhaki;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#zaMen{
+    text-align: center;
+    border-radius: 20px;
+    border-box: rgb(105, 167, 48);
+
+}
+
+#zaMen img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+#zaMen h2{
+    color: aquamarine;
+}
+
+footer{
+    background-color: blue;
+}
+
+
